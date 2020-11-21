@@ -1,5 +1,4 @@
 # UFOs
-Module 11
 
 ## Overview of Project
 The purpose of this assignment was to add additional filters to the table and be able to filter the data using multiple criterion instead of just one. Before, a user could only filter the data by date only. Now the user will be able to filter by date, city, state, country and shape. By updating this table using html and javascript, we are now allowing users to filter by multiple criteria at once. 
