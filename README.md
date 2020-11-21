@@ -6,6 +6,8 @@ The purpose of this assignment was to add additional filters to the table and be
 ## Results
 Before we altered the html and javascript files, a user could only search the table by click when clicking on the submit button. To begin altering, we removed the submit button and added 4 additional filter lists to the index file using html. Then we refreshed our html page and 5 search filter boxes are shown.
 
+![](Resources/tableunfiltered.PNG)
+
 After we created the filter search boxes in html, we then went back to our app.py file and adjusted the javascript function so the table would return filtered data of all 5 criteria.  Next, we called the function and rebuilt the table.  Then, we coded the function to rebuild the table with the filtered data. To do this, we had to use a for loop with object.entries to iterate through each criteria to capture the key and value out of the dictionaries, and then use an arrow function to make sure it equaled what the user was inputting as the filter.  Lastly, we tested the data using multiple filters to make sure the table was filtering correctly. 
 
 ![](Resources/tableunfiltered.PNG)
