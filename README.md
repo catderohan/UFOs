@@ -15,7 +15,7 @@ Someone now can use this webpage to filter by date, city, state, country or shap
 
 They can also filter by multiple criteria with all multipe criteria at once. A user could select by date, city, AND country to see a more narrow filter with multiple criterion. To do this, a user would input a specific date into the date search filter box, a specific city into the city search filter box and a specific country into a search filter box.  Then the table would return results that met all 3 criteron. 
 
-![](Resources/finished11.PNG)
+![](Resources/MultipleFilter.PNG)
 
 ### Summary
 
