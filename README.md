@@ -20,7 +20,5 @@ They can also filter by multiple criteria with all multipe criteria at once. A u
 
 One drawback of this design is that it does not have a submit button or any text letting you know your filtered data will return.  You will have to assume to press enter to see your data. Another drawback of this design is that the datetime function is specific to the format of MM-MM-YYYY to work as well as all the other filters are case sensitive.
 
-Two recommendations for this design would be to add a filter for duration and remove the filter for country since all the UFO sightings are in the US. 
- 
-
+Two recommendations for this design would be to add a filter for duration and remove the filter for country since all the UFO sightings are in the US.  To enhance this design,  we could expand the filtering to be able to pick the data between two dates. Lastly, a greater than or less than filtering option for duration would be a neat feature to add as well for more advanced sorting.
 
